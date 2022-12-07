@@ -1,3 +1,10 @@
+@import url('https://fonts.google.com/specimen/Roboto#styles');
+
 .App {
  text-align: center;
+ font-family: 'Roboto';
+}
+
+.Body {
+  font-family: 'Roboto' ;
 }
